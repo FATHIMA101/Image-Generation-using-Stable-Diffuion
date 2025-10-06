@@ -28,3 +28,9 @@ Mask Creation: A binary mask is created around the object.
 Prompt-Based Replacement: Stable Diffusion inpaints the masked region based on your descriptive prompt.
 
 Result Display: Original image, generated mask, and final result are shown side-by-side.
+
+# Output
+<img width="1417" height="511" alt="output_0" src="https://github.com/user-attachments/assets/d2e0160b-01f2-4c39-85fa-3a962ce4e355" />
+<img width="1427" height="497" alt="output 3" src="https://github.com/user-attachments/assets/e8171cea-2e49-416b-9b07-b626167da0e0" />
+
+
